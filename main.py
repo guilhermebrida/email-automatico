@@ -57,8 +57,8 @@ def enviar_emails():
             print(email)
             body = f'''Olá {nome}, \n
 Identificamos pendência da NF {nf}. Segue anexa NF.\n
-Informamos que o CL está bloqueado para compras junto a BRS até regularização\n.
-Gentileza enviar o MDE com o lançamento para desbloqueio do CL\n.
+Informamos que o CL está bloqueado para compras junto a BRS até regularização.\n
+Gentileza enviar o MDE com o lançamento para desbloqueio do CL.\n
 Aguardamos breve retorno.\n
 Qualquer dúvida estamos à disposição.\n
 Abraço\n
@@ -68,8 +68,8 @@ Atenciosamente,
 
             message = MIMEMultipart()
             message['From'] = sender_email
-            # message['To'] = email
-            message['To'] = ', '.join([email, cc])
+            message['To'] = email
+            # message['To'] = ', '.join([email, cc])
             message['Subject'] = f'''{nome} BLOQUEADO PARA COMPRAS - NF {nf} EM ABERTO'''
             message['Cc'] = cc
             message.attach(MIMEText(body, 'plain'))
