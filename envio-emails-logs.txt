@@ -409,3 +409,24 @@
 -> 2024-02-02 17:23:29.301434 - E-mail enviado para guilherme.brida@gmail.com - CL 21005 - 629
 -> 2024-02-02 17:23:34.263231 - E-mail enviado para guilherme.brida@gmail.com - CL 21006 - 630
 -> 2024-02-02 17:23:34.492961 - Envio de e-mails concluído!
+-> 2024-02-02 20:52:36.775376 - enviar_emails - (535, b'5.7.139 Authentication unsuccessful, the user credentials were incorrect. [CP5P284CA0271.BRAP284.PROD.OUTLOOK.COM 2024-02-02T23:52:36.634Z 08DC238642B61513]')
+-> 2024-02-02 20:53:04.675313 - enviar_emails - E-mail enviado para guilherme.brida@gmail.com - CL 21005 - 629
+-> 2024-02-02 20:53:09.590863 - enviar_emails - E-mail enviado para guilherme.brida@gmail.com - CL 21006 - 630
+-> 2024-02-02 20:53:09.838237 - enviar_emails - Envio de e-mails concluído!
+-> 2024-02-02 20:55:06.223745 - enviar_emails - E-mail enviado para danibeilfus2010@hotmail.com - CL 21005 - 629
+-> 2024-02-02 20:55:10.934049 - enviar_emails - E-mail enviado para guilherme.brida@gmail.com - CL 21006 - 630
+-> 2024-02-02 20:55:11.243345 - enviar_emails - Envio de e-mails concluído!
+-> 2024-02-02 21:01:25.659029 - enviar_emails - (535, b'5.7.3 Authentication unsuccessful [CP5P284CA0005.BRAP284.PROD.OUTLOOK.COM 2024-02-03T00:01:25.500Z 08DC21BCF83656EE]')
+-> 2024-02-02 21:01:42.966350 - enviar_emails - (535, b'5.7.3 Authentication unsuccessful [CP5P284CA0253.BRAP284.PROD.OUTLOOK.COM 2024-02-03T00:01:42.862Z 08DC21FA3A9F69B1]')
+-> 2024-02-02 21:01:55.003520 - enviar_emails - E-mail enviado para danibeilfus2010@hotmail.com;guilherme.brida@gmail.com - CL 21005 - 629
+-> 2024-02-02 21:01:59.941172 - enviar_emails - E-mail enviado para guilherme.brida@gmail.com - CL 21006 - 630
+-> 2024-02-02 21:02:00.232525 - enviar_emails - Envio de e-mails concluído!
+-> 2024-02-02 21:03:56.908948 - enviar_emails - E-mail enviado para danibeilfus2010@hotmail.com;guilherme.brida@gmail.com - CL 21005 - 629
+-> 2024-02-02 21:04:01.672266 - enviar_emails - E-mail enviado para guilherme.brida@gmail.com - CL 21006 - 630
+-> 2024-02-02 21:04:01.985088 - enviar_emails - Envio de e-mails concluído!
+-> 2024-02-02 21:06:58.517768 - enviar_emails - E-mail enviado para danibeilfus2010@hotmail.com;guilherme.brida@gmail.com; - CL 21005 - 629
+-> 2024-02-02 21:06:58.827114 - enviar_emails - Envio de e-mails concluído!
+-> 2024-02-02 21:12:10.741786 - enviar_emails - E-mail enviado para danibeilfus2010@hotmail.com;guilherme.brida@gmail.com; - CL 111111 - 629
+-> 2024-02-02 21:12:11.045148 - enviar_emails - Envio de e-mails concluído!
+-> 2024-02-02 21:13:27.538570 - enviar_emails - E-mail enviado para danibeilfus2010@hotmail.com - CL 111111 - 629
+-> 2024-02-02 21:13:27.766885 - enviar_emails - Envio de e-mails concluído!
